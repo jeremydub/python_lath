@@ -7,4 +7,4 @@ def printSquareRoot(x)
     print(math.sqrt(x))
 
 def printHello():
-    print("Hello")
+    print("Hello, World")
